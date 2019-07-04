@@ -1,0 +1,162 @@
+Xft.autohint: 0
+Xft.lcdfilter: lcddefault
+Xft.hintstyle: hintslight
+Xft.hinting: 1
+Xft.antialias: 1
+Xft.rgba: rgb
+Xft.dpi: 101
+
+!==============================================================================
+! XTerm !==============================================================================
+!Кириллица
+XTerm*utf8Title: true
+XTerm*faceName: DejaVu Sans Mono for Powerline:style=Book
+XTerm*faceSize: 14
+xterm*bolfFont: 
+xterm*scrollBar:        false
+xterm*geometry:         155x50
+xterm*eightBitInput:    false
+xterm*metaSendsEscape:  true
+xterm*colorBDMode:      true
+xterm*boldMode:         on
+xterm*alwaysBoldMode:   false
+xterm*dynamicColors:    on
+xterm*colorMode:        on
+xterm*saveLines:        10000
+xterm*visualBell:       false
+xterm*renderFont: true
+xterm*loginShell: true
+xterm*locale: true
+xterm*utf8: 1
+XTerm*fullscreen: never
+XTerm*selectToClipboard:true
+!XTerm*VT100.Translations:       #override\n\
+! Shift Ctrl <KeyPress> v: insert-selection(CLIPBOARD)\n\
+! Shift Ctrl <KeyPress> c: copy-selection(CLIPBOARD)\n
+!==============================================================================
+! Цвета !==============================================================================
+xterm*colorBD:     #e6d51d
+xterm*background:  #111111
+xterm*foreground:  #b4b4b4
+! Чёрный
+xterm*color0:      #000000
+xterm*color8:      #555753
+! Красный
+xterm*color1:      #b6212d
+xterm*color9:      #ff6565
+! Зелёный
+xterm*color2:      #4c8d00
+xterm*color10:     #6bbe1a
+! Жёлтый
+xterm*color3:      #ff8040
+xterm*color11:     #e6d51d
+! Синий
+xterm*color4:      #0086d2
+xterm*color12:     #00d2ff
+! Маджента
+xterm*color5:      #963c59
+xterm*color13:     #d3649f
+! Циановый
+xterm*color6:      #105952
+xterm*color14:     #177f75
+! Белый
+xterm*color7:      #cdcaa9
+xterm*color15:     #ffffff
+
+
+!==============================================================================
+! UXTerm !==============================================================================
+!Кириллица
+UXTerm*utf8Title: true
+UXTerm*faceName: DejaVu Sans Mono for Powerline:style=Book
+UXTerm*faceSize: 14
+uxterm*bolfFont: 
+uxterm*scrollBar:        false
+uxterm*geometry:         155x50
+uxterm*eightBitInput:    false
+uxterm*metaSendsEscape:  true
+uxterm*colorBDMode:      true
+uxterm*boldMode:         on
+uxterm*alwaysBoldMode:   false
+uxterm*dynamicColors:    on
+uxterm*colorMode:        on
+uxterm*saveLines:        10000
+uxterm*visualBell:       false
+uxterm*renderFont: true
+uxterm*loginShell: true
+uxterm*locale: true
+uxterm*utf8: 1
+!==============================================================================
+! Цвета !==============================================================================
+uxterm*colorBD:     #e6d51d
+uxterm*background:  #111111
+uxterm*foreground:  #b4b4b4
+! Чёрный
+uxterm*color0:      #000000
+uxterm*color8:      #555753
+! Красный
+uxterm*color1:      #b6212d
+uxterm*color9:      #ff6565
+! Зелёный
+uxterm*color2:      #4c8d00
+uxterm*color10:     #6bbe1a
+! Жёлтый
+uxterm*color3:      #ff8040
+uxterm*color11:     #e6d51d
+! Синий
+uxterm*color4:      #0086d2
+uxterm*color12:     #00d2ff
+! Маджента
+uxterm*color5:      #963c59
+uxterm*color13:     #d3649f
+! Циановый
+uxterm*color6:      #105952
+uxterm*color14:     #177f75
+! Белый
+uxterm*color7:      #cdcaa9
+uxterm*color15:     #ffffff
+
+!==============================================================================
+!Yeahconsole
+!==============================================================================
+yeahconsole*term:xterm
+yeahconsole*consoleHeight:40
+yeahconsole*toggleKey:None+F12
+yeahconsole*restart:1
+yeahconsole*keyFull:None+F11
+yeahconsole*saveLines:500
+yeahconsole*keySmaller:Control+m
+yeahconsole*keyBigger:Control+n
+yeahconsole*aniDelay: 0
+yeahconsole*metaSendsEscape: true
+
+!==============================================================================
+! Цвета 
+!==============================================================================
+yeahconsole*colorBD:     #e6d51d
+yeahconsole*background:  #111111
+yeahconsole*foreground:  #b4b4b4
+! Чёрный
+yeahconsole*color0:      #000000
+yeahconsole*color8:      #555753
+! Красный
+yeahconsole*color1:      #b6212d
+yeahconsole*color9:      #ff6565
+! Зелёный
+yeahconsole*color2:      #4c8d00
+yeahconsole*color10:     #6bbe1a
+! Жёлтый
+yeahconsole*color3:      #ff8040
+yeahconsole*color11:     #e6d51d
+! Синий
+yeahconsole*color4:      #0086d2
+yeahconsole*color12:     #00d2ff
+! Маджента
+yeahconsole*color5:      #963c59
+yeahconsole*color13:     #d3649f
+! Циановый
+yeahconsole*color6:      #105952
+yeahconsole*color14:     #177f75
+! Белый
+yeahconsole*color7:      #cdcaa9
+yeahconsole*color15:     #ffffff
